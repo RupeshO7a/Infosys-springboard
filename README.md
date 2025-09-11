@@ -1,2 +1,1 @@
-# Infosys-springboard
-Virtual internship
+ImpactSense - Earthquake Impact Prediction
